@@ -1036,6 +1036,7 @@ __metadata:
     inquirer: "npm:9.2.17"
     pinst: "npm:3.0.0"
     prettier: "npm:3.2.5"
+    rxjs: "npm:^7.8.1"
     semantic-release: "npm:23.0.6"
     ts-node: "npm:10.9.2"
     tslib: "npm:^2.6.2"

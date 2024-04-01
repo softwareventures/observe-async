@@ -26,6 +26,7 @@
     "node": "^18 || ^20 || >=21"
   },
   "dependencies": {
+    "rxjs": "^6.0.0 || ^7.0.0",
     "tslib": "^2.6.2"
   },
   "devDependencies": {
