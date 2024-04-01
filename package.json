@@ -2,8 +2,14 @@
   "private": true,
   "name": "@softwareventures/observe-async",
   "version": "0.0.0-development",
-  "description": "",
-  "keywords": [],
+  "description": "Create an rxjs Observable from an asynchronous function",
+  "keywords": [
+    "rxjs",
+    "observable",
+    "async",
+    "function",
+    "TypeScript"
+  ],
   "author": "Daniel Cassidy <mail@danielcassidy.me.uk>",
   "homepage": "https://github.com/softwareventures/observe-async",
   "bugs": "https://github.com/softwareventures/observe-async/issues",
